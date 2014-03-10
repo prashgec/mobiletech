@@ -14,7 +14,7 @@
 			<span>
 					<h2> </h2>
 			
-	<form name="myForm" action="" method="POST" onsubmit="return validateForm()" >
+	<form name="myForm" action="SendMail" method="POST" onsubmit="return validateForm()" >
     <input type="hidden" name="action" value="submit"/> Your name:<br />
     <input id="name" name="name" type="text" value="" size="30"/> <br /> Your Contact No:<br />
     <input id="contact" name="contact" type="text" value="" size="30"/> <br /> Your email:<br />
